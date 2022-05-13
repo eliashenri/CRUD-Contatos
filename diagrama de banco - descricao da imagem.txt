@@ -1,0 +1,9 @@
+O diagrama de banco de dados é composto por uma tabela apenas
+
+A tabela Contatos é composta pelas colunas:
+ID: dado do tipo int
+nome: dado do tipo string
+sobrenome: dado do tipo string
+cpf: dado do tipo string
+email: dado do tipo string
+telefone: dado do tipo string
