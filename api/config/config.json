@@ -1,7 +1,7 @@
 {
   "development": {
     "username": "root",
-    "password": "88017620",
+    "password": "root",
     "database": "cadastro_de_contatos",
     "host": "127.0.0.1",
     "dialect": "mysql"
